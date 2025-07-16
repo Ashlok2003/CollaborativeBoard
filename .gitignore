@@ -1,0 +1,38 @@
+# Node.js / pnpm
+node_modules/
+.pnpm/
+.pnpm-debug.log*
+dist/
+build/
+coverage/
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+
+# React frontend (inside client/)
+client/node_modules/
+client/.pnpm/
+client/build/
+client/dist/
+client/.env
+client/.env.local
+client/.env.*.local
+
+# Optional: test output
+*.tsbuildinfo
+jest-test-results.json

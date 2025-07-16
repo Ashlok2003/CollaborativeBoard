@@ -1,0 +1,943 @@
+2025-07-16 14:05:25 [INFO]: Server running on port 5000
+2025-07-16 14:14:40 [INFO]: Server running on port 5000
+2025-07-16 14:15:34 [INFO]: Server running on port 5000
+2025-07-16 14:15:40 [INFO]: Server running on port 5000
+2025-07-16 14:18:38 [WARN]: Invalid token on socket connection: secret or public key must be provided
+2025-07-16 14:18:38 [WARN]: Invalid token on socket connection: secret or public key must be provided
+2025-07-16 14:18:38 [WARN]: Invalid token on socket connection: secret or public key must be provided
+2025-07-16 14:18:38 [WARN]: Invalid token on socket connection: secret or public key must be provided
+2025-07-16 14:24:01 [INFO]: Server running on port 5000
+2025-07-16 14:24:04 [WARN]: Invalid token on socket connection: invalid signature
+2025-07-16 14:24:04 [WARN]: Invalid token on socket connection: invalid signature
+2025-07-16 14:24:04 [WARN]: Invalid token on socket connection: invalid signature
+2025-07-16 14:24:04 [WARN]: Invalid token on socket connection: invalid signature
+2025-07-16 14:24:53 [INFO]: JWT_SECRET: Set
+2025-07-16 14:24:53 [INFO]: Server running on port 5000
+2025-07-16 14:24:54 [INFO]: JWT_SECRET: Set
+2025-07-16 14:24:54 [INFO]: Server running on port 5000
+2025-07-16 14:24:57 [WARN]: Invalid token on socket connection: invalid signature
+2025-07-16 14:24:57 [WARN]: Invalid token on socket connection: invalid signature
+2025-07-16 14:25:12 [INFO]: JWT_SECRET: Set
+2025-07-16 14:25:12 [INFO]: Server running on port 5000
+2025-07-16 14:25:13 [WARN]: Invalid token on socket connection: invalid signature
+2025-07-16 14:25:13 [WARN]: Invalid token on socket connection: invalid signature
+2025-07-16 14:25:22 [INFO]: JWT_SECRET: Set
+2025-07-16 14:25:22 [INFO]: Server running on port 5000
+2025-07-16 14:25:23 [WARN]: Invalid token on socket connection: invalid signature
+2025-07-16 14:25:23 [WARN]: Invalid token on socket connection: invalid signature
+2025-07-16 14:25:28 [INFO]: JWT_SECRET: Set
+2025-07-16 14:25:28 [INFO]: Server running on port 5000
+2025-07-16 14:25:29 [WARN]: Invalid token on socket connection: invalid signature
+2025-07-16 14:25:30 [WARN]: Invalid token on socket connection: invalid signature
+2025-07-16 14:25:52 [INFO]: JWT_SECRET: Set
+2025-07-16 14:25:52 [INFO]: Server running on port 5000
+2025-07-16 14:25:53 [WARN]: Invalid token on socket connection: invalid signature
+2025-07-16 14:25:53 [WARN]: Invalid token on socket connection: invalid signature
+2025-07-16 14:26:24 [INFO]: JWT_SECRET: Set
+2025-07-16 14:26:24 [INFO]: Server running on port 5000
+2025-07-16 14:26:25 [WARN]: Invalid token on socket connection: invalid signature
+2025-07-16 14:26:25 [WARN]: Invalid token on socket connection: invalid signature
+2025-07-16 14:26:41 [WARN]: Invalid token on socket connection: invalid signature
+2025-07-16 14:26:41 [WARN]: Invalid token on socket connection: invalid signature
+2025-07-16 14:27:19 [INFO]: JWT_SECRET: Set
+2025-07-16 14:27:19 [INFO]: Server running on port 5000
+2025-07-16 14:31:42 [ERROR]: Invalid token: invalid signature
+2025-07-16 14:31:42 [ERROR]: Invalid token: invalid signature
+2025-07-16 14:31:55 [ERROR]: Invalid token: invalid signature
+2025-07-16 14:31:55 [ERROR]: Invalid token: invalid signature
+2025-07-16 14:52:07 [INFO]: JWT_SECRET: Set
+2025-07-16 14:52:07 [INFO]: Server running on port 5000
+2025-07-16 14:54:21 [INFO]: Registering new user: __ashlok__
+2025-07-16 14:54:21 [ERROR]: User validation failed: name: Path `name` is required. - ValidationError: User validation failed: name: Path `name` is required.
+    at Document.invalidate (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/document.js:3354:32)
+    at /home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/document.js:3115:17
+    at /home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/schemaType.js:1410:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2025-07-16 14:55:57 [ERROR]: All fields are required - Error: All fields are required
+    at register (file:///home/ashlok/projects/todo/src/controllers/auth.controller.js:11:27)
+    at Layer.handleRequest (/home/ashlok/projects/todo/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)
+    at next (/home/ashlok/projects/todo/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/ashlok/projects/todo/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:117:3)
+    at handle (/home/ashlok/projects/todo/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/home/ashlok/projects/todo/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)
+    at /home/ashlok/projects/todo/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:295:15
+    at processParams (/home/ashlok/projects/todo/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:582:12)
+    at next (/home/ashlok/projects/todo/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:291:5)
+    at router.handle (/home/ashlok/projects/todo/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:186:3)
+2025-07-16 14:56:14 [INFO]: JWT_SECRET: Set
+2025-07-16 14:56:14 [INFO]: Server running on port 5000
+2025-07-16 14:56:21 [ERROR]: All fields are required - Error: All fields are required
+    at register (file:///home/ashlok/projects/todo/src/controllers/auth.controller.js:11:27)
+    at Layer.handleRequest (/home/ashlok/projects/todo/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)
+    at next (/home/ashlok/projects/todo/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/home/ashlok/projects/todo/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:117:3)
+    at handle (/home/ashlok/projects/todo/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/home/ashlok/projects/todo/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)
+    at /home/ashlok/projects/todo/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:295:15
+    at processParams (/home/ashlok/projects/todo/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:582:12)
+    at next (/home/ashlok/projects/todo/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:291:5)
+    at router.handle (/home/ashlok/projects/todo/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:186:3)
+2025-07-16 14:57:12 [INFO]: JWT_SECRET: Set
+2025-07-16 14:57:12 [INFO]: Server running on port 5000
+2025-07-16 14:57:26 [INFO]: JWT_SECRET: Set
+2025-07-16 14:57:26 [INFO]: Server running on port 5000
+2025-07-16 14:58:25 [INFO]: JWT_SECRET: Set
+2025-07-16 14:58:25 [INFO]: Server running on port 5000
+2025-07-16 15:00:11 [INFO]: Registering new user: __ashlok__
+2025-07-16 15:00:12 [INFO]: User registered successfully: __ashlok__
+2025-07-16 15:00:51 [INFO]: User logged in: __ashlok__
+2025-07-16 15:02:48 [INFO]: User logged in: __ashlok__
+2025-07-16 15:03:45 [INFO]: JWT_SECRET: Set
+2025-07-16 15:03:46 [INFO]: Server running on port 5000
+2025-07-16 15:04:27 [INFO]: JWT_SECRET: Set
+2025-07-16 15:04:27 [INFO]: Server running on port 5000
+2025-07-16 15:04:52 [INFO]: JWT_SECRET: Set
+2025-07-16 15:04:52 [INFO]: Server running on port 5000
+2025-07-16 15:05:21 [INFO]: JWT_SECRET: Set
+2025-07-16 15:05:21 [INFO]: Server running on port 5000
+2025-07-16 15:05:40 [INFO]: JWT_SECRET: Set
+2025-07-16 15:05:40 [INFO]: Server running on port 5000
+2025-07-16 15:05:50 [INFO]: JWT_SECRET: Set
+2025-07-16 15:05:50 [INFO]: Server running on port 5000
+2025-07-16 15:06:07 [INFO]: User logged in: __ashlok__
+2025-07-16 15:06:44 [INFO]: User logged in: __ashlok__
+2025-07-16 15:07:34 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:07:34 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:07:35 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:07:35 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:07:38 [INFO]: User logged in: __ashlok__
+2025-07-16 15:10:07 [INFO]: User logged in: __ashlok__
+2025-07-16 15:10:32 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:10:32 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:10:32 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:10:32 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:10:34 [INFO]: User logged in: __ashlok__
+2025-07-16 15:10:36 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:10:37 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 15:10:38 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:10:38 [INFO]: Task updated: 6877726c742f4941be5c7135 by user __ashlok__ 
+2025-07-16 15:13:16 [INFO]: User logged in: __ashlok__
+2025-07-16 15:13:22 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:13:22 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:13:23 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:13:23 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:13:26 [INFO]: User logged in: __ashlok__
+2025-07-16 15:13:28 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:13:29 [INFO]: Task updated: 6877726c742f4941be5c7136 by user __ashlok__ 
+2025-07-16 15:13:30 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:13:31 [INFO]: Task updated: 6877726c742f4941be5c7136 by user __ashlok__ 
+2025-07-16 15:13:36 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:13:36 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 15:13:37 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:13:37 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 15:13:41 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:13:41 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 15:13:41 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:13:42 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 15:13:43 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:13:44 [INFO]: Task updated: 6877726c742f4941be5c7137 by user __ashlok__ 
+2025-07-16 15:13:44 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:13:44 [INFO]: Task updated: 6877726c742f4941be5c7137 by user __ashlok__ 
+2025-07-16 15:13:53 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:13:54 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 15:13:55 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:13:55 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:13:56 [WARN]: Conflict detected for task: 6877726c742f4941be5c7133 
+2025-07-16 15:13:56 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 15:14:14 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:14:14 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:14:14 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:14:14 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:14:18 [INFO]: User logged in: __ashlok__
+2025-07-16 15:14:22 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:14:22 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 15:14:25 [INFO]: Authenticated user: __ashlok__
+2025-07-16 15:14:25 [INFO]: Task updated: 6877726c742f4941be5c7137 by user __ashlok__ 
+2025-07-16 19:49:54 [INFO]: JWT_SECRET: Set
+2025-07-16 19:49:54 [INFO]: Server running on port 5000
+2025-07-16 19:52:09 [ERROR]: Invalid token: jwt expired
+2025-07-16 19:52:09 [ERROR]: Invalid token: jwt expired
+2025-07-16 19:52:09 [ERROR]: Invalid token: jwt expired
+2025-07-16 19:52:09 [ERROR]: Invalid token: jwt expired
+2025-07-16 19:52:31 [INFO]: User logged in: __ashlok__
+2025-07-16 20:01:10 [INFO]: Authenticated user: __ashlok__
+2025-07-16 20:01:10 [INFO]: Authenticated user: __ashlok__
+2025-07-16 20:01:40 [ERROR]: C0F8B7EC477F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:916:SSL alert number 80
+ - MongoServerSelectionError: C0F8B7EC477F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:916:SSL alert number 80
+
+    at Topology.selectServer (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/sdam/topology.js:326:38)
+    at async tryOperation (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/operations/execute_operation.js:145:18)
+    at async executeOperation (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async FindCursor._initialize (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/cursor/find_cursor.js:61:26)
+    at async FindCursor.cursorInit (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/cursor/abstract_cursor.js:633:27)
+    at async FindCursor.fetchBatch (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/cursor/abstract_cursor.js:667:13)
+    at async FindCursor.next (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/cursor/abstract_cursor.js:347:17)
+    at async [Symbol.asyncIterator] (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/cursor/abstract_cursor.js:255:34)
+    at async FindCursor.toArray (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/cursor/abstract_cursor.js:427:26)
+    at async model.Query._find (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/query.js:2407:14)
+2025-07-16 20:01:40 [ERROR]: Error fetching action logs: C0F8B7EC477F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:916:SSL alert number 80
+
+2025-07-16 20:01:40 [ERROR]: C0F8B7EC477F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:916:SSL alert number 80
+ - MongoServerSelectionError: C0F8B7EC477F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:916:SSL alert number 80
+
+    at Topology.selectServer (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/sdam/topology.js:326:38)
+    at async tryOperation (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/operations/execute_operation.js:145:18)
+    at async executeOperation (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async FindCursor._initialize (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/cursor/find_cursor.js:61:26)
+    at async FindCursor.cursorInit (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/cursor/abstract_cursor.js:633:27)
+    at async FindCursor.fetchBatch (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/cursor/abstract_cursor.js:667:13)
+    at async FindCursor.next (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/cursor/abstract_cursor.js:347:17)
+    at async [Symbol.asyncIterator] (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/cursor/abstract_cursor.js:255:34)
+    at async FindCursor.toArray (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/cursor/abstract_cursor.js:427:26)
+    at async model.Query._find (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/query.js:2407:14)
+2025-07-16 20:13:54 [INFO]: JWT_SECRET: Set
+2025-07-16 20:13:54 [INFO]: Server running on port 5000
+2025-07-16 20:15:07 [INFO]: JWT_SECRET: Set
+2025-07-16 20:15:07 [INFO]: Server running on port 5000
+2025-07-16 20:26:10 [ERROR]: Operation `users.findOne()` buffering timed out after 10000ms - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:187:23)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7)
+2025-07-16 20:26:14 [INFO]: JWT_SECRET: Set
+2025-07-16 20:26:14 [INFO]: Server running on port 5000
+2025-07-16 20:27:43 [INFO]: JWT_SECRET: Set
+2025-07-16 20:27:43 [INFO]: Server running on port 5000
+2025-07-16 20:27:50 [INFO]: User logged in: __ashlok__
+2025-07-16 20:34:04 [INFO]: JWT_SECRET: Set
+2025-07-16 20:34:04 [INFO]: Server running on port 5000
+2025-07-16 20:35:24 [INFO]: Authenticated user: __ashlok__
+2025-07-16 20:35:24 [INFO]: Authenticated user: __ashlok__
+2025-07-16 20:35:24 [INFO]: Authenticated user: __ashlok__
+2025-07-16 20:35:24 [INFO]: Authenticated user: __ashlok__
+2025-07-16 20:35:29 [INFO]: User logged in: __ashlok__
+2025-07-16 20:41:48 [INFO]: Authenticated user: __ashlok__
+2025-07-16 20:41:48 [INFO]: Authenticated user: __ashlok__
+2025-07-16 20:41:49 [INFO]: Authenticated user: __ashlok__
+2025-07-16 20:41:49 [INFO]: Authenticated user: __ashlok__
+2025-07-16 20:41:54 [INFO]: User logged in: __ashlok__
+2025-07-16 20:50:25 [INFO]: Authenticated user: __ashlok__
+2025-07-16 20:50:25 [INFO]: Authenticated user: __ashlok__
+2025-07-16 20:50:26 [INFO]: Authenticated user: __ashlok__
+2025-07-16 20:50:26 [INFO]: Authenticated user: __ashlok__
+2025-07-16 20:50:29 [INFO]: User logged in: __ashlok__
+2025-07-16 20:54:55 [INFO]: Authenticated user: __ashlok__
+2025-07-16 20:54:55 [INFO]: Authenticated user: __ashlok__
+2025-07-16 20:54:55 [INFO]: Authenticated user: __ashlok__
+2025-07-16 20:54:55 [INFO]: Authenticated user: __ashlok__
+2025-07-16 20:54:58 [INFO]: User logged in: __ashlok__
+2025-07-16 21:00:55 [INFO]: JWT_SECRET: Set
+2025-07-16 21:00:55 [INFO]: Server running on port 5000
+2025-07-16 21:01:45 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:01:45 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:01:46 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:01:46 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:01:48 [INFO]: User logged in: __ashlok__
+2025-07-16 21:04:01 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:04:01 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:04:02 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:04:02 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:04:04 [INFO]: User logged in: __ashlok__
+2025-07-16 21:10:27 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:10:27 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:10:27 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:10:28 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:10:28 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:10:28 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:10:31 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:10:31 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:10:31 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:10:32 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:10:34 [INFO]: User logged in: __ashlok__
+2025-07-16 21:10:48 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:10:49 [INFO]: Task updated: 6877726c742f4941be5c7135 by user __ashlok__ 
+2025-07-16 21:10:52 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:10:52 [INFO]: Task updated: 6877726c742f4941be5c7135 by user __ashlok__ 
+2025-07-16 21:10:54 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:10:55 [INFO]: Task updated: 6877726c742f4941be5c7135 by user __ashlok__ 
+2025-07-16 21:10:55 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:10:55 [INFO]: Task updated: 6877726c742f4941be5c7135 by user __ashlok__ 
+2025-07-16 21:10:55 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:10:56 [INFO]: Task updated: 6877726c742f4941be5c7135 by user __ashlok__ 
+2025-07-16 21:11:35 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:11:35 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:11:42 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:11:43 [INFO]: Task updated: 6877726c742f4941be5c7135 by user __ashlok__ 
+2025-07-16 21:11:44 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:11:45 [INFO]: Task updated: 6877726c742f4941be5c7137 by user __ashlok__ 
+2025-07-16 21:11:52 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:11:53 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:11:56 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:11:57 [INFO]: Task updated: 6877726c742f4941be5c7136 by user __ashlok__ 
+2025-07-16 21:12:05 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:12:05 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:12:06 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:12:06 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:12:10 [INFO]: User logged in: __ashlok__
+2025-07-16 21:13:50 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:13:50 [INFO]: Task created: Ashlok Chaudhary by user __ashlok__ 
+2025-07-16 21:13:56 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:13:57 [INFO]: Task updated: 6877c8b6dc41081616c947ee by user __ashlok__ 
+2025-07-16 21:14:03 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:14:03 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:14:21 [INFO]: User logged in: __ashlok__
+2025-07-16 21:14:27 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:14:27 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:14:28 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:14:28 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:14:31 [INFO]: User logged in: __ashlok__
+2025-07-16 21:15:24 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:15:25 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:15:26 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:15:26 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:15:26 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:15:27 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:15:27 [WARN]: Conflict detected for task: 6877726c742f4941be5c7133 
+2025-07-16 21:15:27 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:15:37 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:15:37 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:15:38 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:15:38 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:15:46 [INFO]: User logged in: __ashlok__
+2025-07-16 21:15:50 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:15:52 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:15:57 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:15:58 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:16:02 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:16:03 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:16:03 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:16:03 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:16:03 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:16:03 [WARN]: Conflict detected for task: 6877726c742f4941be5c7133 
+2025-07-16 21:16:03 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:16:04 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:17:26 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:17:26 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:17:27 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:17:27 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:17:33 [INFO]: User logged in: __ashlok__
+2025-07-16 21:19:00 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:19:01 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:19:01 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:19:01 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:19:01 [WARN]: Conflict detected for task: 6877726c742f4941be5c7133 
+2025-07-16 21:19:01 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:19:14 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:19:14 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:19:14 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:19:14 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:19:22 [INFO]: User logged in: __ashlok__
+2025-07-16 21:19:29 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:19:30 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:19:38 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:19:39 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:22:52 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:22:53 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:22:54 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:22:54 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:22:55 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:22:55 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:22:55 [WARN]: Conflict detected for task: 6877726c742f4941be5c7133 
+2025-07-16 21:22:55 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:22:55 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:22:58 [WARN]: Conflict detected for task: 6877726c742f4941be5c7133 
+2025-07-16 21:23:42 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:23:42 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:23:43 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:23:43 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:24:14 [INFO]: User logged in: __ashlok__
+2025-07-16 21:26:41 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:26:42 [INFO]: Task updated: 6877726c742f4941be5c7135 by user __ashlok__ 
+2025-07-16 21:28:31 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:28:32 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:28:34 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:28:34 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:28:37 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:28:38 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:31:47 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:31:47 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:31:53 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:31:54 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:31:56 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:31:57 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:31:59 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:31:59 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:32:04 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:32:05 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:32:16 [INFO]: JWT_SECRET: Set
+2025-07-16 21:32:16 [INFO]: Server running on port 5000
+2025-07-16 21:32:17 [INFO]: JWT_SECRET: Set
+2025-07-16 21:32:17 [INFO]: Server running on port 5000
+2025-07-16 21:33:05 [INFO]: User logged in: __ashlok__
+2025-07-16 21:33:16 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:33:16 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:33:16 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:33:16 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:33:19 [INFO]: User logged in: __ashlok__
+2025-07-16 21:33:53 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:33:54 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:36:28 [INFO]: Server running on port 5000
+2025-07-16 21:40:07 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:40:08 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:40:41 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:40:42 [INFO]: Task updated: 6877c8b6dc41081616c947ee by user __ashlok__ 
+2025-07-16 21:40:44 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:40:45 [INFO]: Task updated: 6877c8b6dc41081616c947ee by user __ashlok__ 
+2025-07-16 21:40:58 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:40:59 [INFO]: Task updated: 6877726c742f4941be5c7133 by user __ashlok__ 
+2025-07-16 21:42:29 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:42:30 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:42:30 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:42:30 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:42:36 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:42:36 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:42:36 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:42:36 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:42:38 [INFO]: User logged in: __ashlok__
+2025-07-16 21:43:15 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:43:16 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:43:41 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:43:42 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:43:46 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:43:47 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:43:48 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:43:48 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:43:48 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:43:48 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:45:44 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:45:44 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:45:44 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:45:44 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:45:48 [INFO]: User logged in: __ashlok__
+2025-07-16 21:45:53 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:45:53 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:45:55 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:45:55 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:45:55 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:45:55 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:45:57 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:45:57 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:45:57 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:45:57 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:45:57 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:45:57 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:45:57 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:45:57 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:45:58 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:45:59 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:00 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:00 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:00 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:00 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:00 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:00 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:00 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:00 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:00 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:00 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:00 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:01 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:01 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:01 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:01 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:02 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:02 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:02 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:02 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:02 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:03 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:03 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:03 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:03 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:03 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:03 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:03 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:03 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:04 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:04 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:04 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:04 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:04 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:04 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:04 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:04 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:05 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:05 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:05 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:05 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:05 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:05 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:05 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:06 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:06 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:06 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:06 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:06 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:06 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:06 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:06 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:06 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:06 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:06 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:07 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:07 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:07 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:07 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:07 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:07 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:07 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:07 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:07 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:07 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:07 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:07 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:07 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:08 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:08 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:08 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:08 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:08 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:08 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:08 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:09 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:09 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:09 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:09 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:09 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:09 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:09 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:09 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:09 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:09 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:09 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:10 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:10 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:10 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:10 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:10 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:10 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:10 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:10 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:10 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:11 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:11 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:11 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:11 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:11 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:11 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:11 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:11 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:11 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:12 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:12 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:12 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:12 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:12 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:12 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:12 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:12 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:12 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:12 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:12 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:12 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:12 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:13 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:13 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:13 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:13 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:13 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:13 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:13 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:13 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:13 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:13 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:13 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:13 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:13 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:13 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:14 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:14 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:14 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:14 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:14 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:14 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:14 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:14 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:14 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:14 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:15 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:15 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:15 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:15 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:15 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:15 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:15 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:16 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:16 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:16 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:16 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:16 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:16 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:16 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:16 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:16 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:16 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:16 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:16 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:16 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:17 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:17 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:17 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:17 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:17 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:17 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:17 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:17 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:17 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:17 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:17 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:17 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:18 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:18 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:18 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:18 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:18 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:18 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:18 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:19 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:19 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:19 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:19 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:19 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:19 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:19 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:19 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:19 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:19 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:20 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:20 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:20 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:20 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:20 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:46:20 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:20 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:46:21 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:46:21 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:47:05 [INFO]: Registering new user: __vipul__
+2025-07-16 21:47:05 [INFO]: User registered successfully: __vipul__
+2025-07-16 21:47:18 [INFO]: User logged in: __vipul__
+2025-07-16 21:47:40 [INFO]: User logged in: __vipul__
+2025-07-16 21:47:42 [INFO]: Authenticated user: __vipul__
+2025-07-16 21:47:42 [INFO]: Authenticated user: __vipul__
+2025-07-16 21:47:43 [INFO]: Authenticated user: __vipul__
+2025-07-16 21:47:43 [INFO]: Authenticated user: __vipul__
+2025-07-16 21:47:47 [INFO]: User logged in: __ashlok__
+2025-07-16 21:47:50 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:47:51 [INFO]: Task updated: 6877726c742f4941be5c7137 by user __ashlok__ 
+2025-07-16 21:47:51 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:47:52 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:47:52 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:47:53 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:47:53 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:47:54 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:47:54 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:47:54 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:47:54 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:47:55 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:47:55 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:47:55 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:47:56 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:47:57 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:47:57 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:47:58 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:47:58 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:47:59 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:47:59 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:47:59 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:48:02 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:48:03 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:48:03 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:48:03 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:48:07 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:48:08 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:48:10 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:48:11 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:48:18 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:48:18 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 21:48:25 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:48:25 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 21:48:27 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:48:28 [INFO]: Task updated: 6877726c742f4941be5c7137 by user __ashlok__ 
+2025-07-16 21:48:40 [INFO]: Authenticated user: __ashlok__
+2025-07-16 21:48:41 [INFO]: Task updated: 6877726c742f4941be5c7137 by user __ashlok__ 
+2025-07-16 22:06:14 [INFO]: Server running on port 5000
+2025-07-16 22:06:25 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:06:25 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:06:25 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:06:25 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:06:30 [INFO]: User logged in: __ashlok__
+2025-07-16 22:06:39 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:06:39 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:06:39 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:06:40 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:06:45 [INFO]: User logged in: __ashlok__
+2025-07-16 22:06:49 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:06:50 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 22:06:58 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:06:59 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 22:06:59 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:06:59 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:06:59 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:06:59 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 22:07:00 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 22:07:00 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 22:07:06 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:07:07 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 22:07:17 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:07:18 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 22:07:40 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:07:41 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 22:08:10 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:08:11 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 22:12:53 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:12:53 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:12:53 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:12:53 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:12:56 [INFO]: User logged in: __ashlok__
+2025-07-16 22:14:45 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:14:45 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:14:46 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:14:46 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:15:09 [INFO]: User logged in: __ashlok__
+2025-07-16 22:18:20 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:18:20 [ERROR]: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Task" - CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Task"
+    at SchemaObjectId.cast (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/schema/objectId.js:251:11)
+    at SchemaType.applySetters (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/schemaType.js:1258:12)
+    at SchemaType.castForQuery (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/schemaType.js:1676:17)
+    at cast (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/cast.js:390:32)
+    at Query.cast (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/query.js:5055:12)
+    at Query._castConditions (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/query.js:2351:10)
+    at model.Query._findOne (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/query.js:2674:8)
+    at model.Query.exec (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/query.js:4604:80)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateTask (file:///home/ashlok/projects/todo/src/controllers/task.controller.js:42:18)
+2025-07-16 22:19:13 [INFO]: Server running on port 5000
+2025-07-16 22:19:19 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:19:19 [ERROR]: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Task" - CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Task"
+    at SchemaObjectId.cast (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/schema/objectId.js:251:11)
+    at SchemaType.applySetters (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/schemaType.js:1258:12)
+    at SchemaType.castForQuery (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/schemaType.js:1676:17)
+    at cast (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/cast.js:390:32)
+    at Query.cast (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/query.js:5055:12)
+    at Query._castConditions (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/query.js:2351:10)
+    at model.Query._findOne (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/query.js:2674:8)
+    at model.Query.exec (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/query.js:4604:80)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateTask (file:///home/ashlok/projects/todo/src/controllers/task.controller.js:44:18)
+2025-07-16 22:19:40 [INFO]: Server running on port 5000
+2025-07-16 22:19:46 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:19:46 [WARN]: Task not found: undefined 
+2025-07-16 22:19:46 [ERROR]: Task not found - Error: Task not found
+    at updateTask (file:///home/ashlok/projects/todo/src/controllers/task.controller.js:48:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-16 22:20:25 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:20:26 [WARN]: Task not found: undefined 
+2025-07-16 22:20:26 [ERROR]: Task not found - Error: Task not found
+    at updateTask (file:///home/ashlok/projects/todo/src/controllers/task.controller.js:48:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-16 22:21:05 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:21:06 [WARN]: Task not found: undefined 
+2025-07-16 22:21:06 [ERROR]: Task not found - Error: Task not found
+    at updateTask (file:///home/ashlok/projects/todo/src/controllers/task.controller.js:48:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-16 22:22:21 [INFO]: Server running on port 5000
+2025-07-16 22:22:31 [INFO]: Server running on port 5000
+2025-07-16 22:22:35 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:22:35 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:22:35 [ERROR]: Schema hasn't been registered for model "_id".
+Use mongoose.model(name, schema) - MissingSchemaError: Schema hasn't been registered for model "_id".
+Use mongoose.model(name, schema)
+    at NativeConnection.model (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/connection.js:1491:13)
+    at _getModelFromConn (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/helpers/populate/getModelsMapForPopulate.js:579:15)
+    at addModelNamesToMap (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/helpers/populate/getModelsMapForPopulate.js:507:17)
+    at getModelsMapForPopulate (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/helpers/populate/getModelsMapForPopulate.js:208:7)
+    at _populatePath (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/model.js:4469:21)
+    at model.populate (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/model.js:4436:21)
+    at model.Query._find (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/query.js:2433:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async model.Query.exec (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/query.js:4604:63)
+    at async getTasks (file:///home/ashlok/projects/todo/src/controllers/task.controller.js:31:19)
+2025-07-16 22:22:35 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:22:36 [ERROR]: Schema hasn't been registered for model "_id".
+Use mongoose.model(name, schema) - MissingSchemaError: Schema hasn't been registered for model "_id".
+Use mongoose.model(name, schema)
+    at NativeConnection.model (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/connection.js:1491:13)
+    at _getModelFromConn (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/helpers/populate/getModelsMapForPopulate.js:579:15)
+    at addModelNamesToMap (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/helpers/populate/getModelsMapForPopulate.js:507:17)
+    at getModelsMapForPopulate (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/helpers/populate/getModelsMapForPopulate.js:208:7)
+    at _populatePath (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/model.js:4469:21)
+    at model.populate (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/model.js:4436:21)
+    at model.Query._find (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/query.js:2433:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async model.Query.exec (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/query.js:4604:63)
+    at async getTasks (file:///home/ashlok/projects/todo/src/controllers/task.controller.js:31:19)
+2025-07-16 22:22:36 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:22:40 [INFO]: User logged in: __ashlok__
+2025-07-16 22:22:50 [INFO]: Server running on port 5000
+2025-07-16 22:22:53 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:22:53 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:22:54 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:22:54 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:23:04 [INFO]: Server running on port 5000
+2025-07-16 22:23:23 [INFO]: User logged in: __ashlok__
+2025-07-16 22:23:28 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:23:28 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:23:29 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:23:29 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:25:39 [INFO]: User logged in: __ashlok__
+2025-07-16 22:25:47 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:25:47 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:25:48 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:25:48 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:25:53 [INFO]: User logged in: __ashlok__
+2025-07-16 22:29:53 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:29:54 [WARN]: Task not found: undefined 
+2025-07-16 22:29:54 [ERROR]: Task not found - Error: Task not found
+    at updateTask (file:///home/ashlok/projects/todo/src/controllers/task.controller.js:48:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-16 22:29:56 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:29:56 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:29:57 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:29:57 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:29:59 [INFO]: User logged in: __ashlok__
+2025-07-16 22:30:02 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:30:02 [WARN]: Task not found: undefined 
+2025-07-16 22:30:02 [ERROR]: Task not found - Error: Task not found
+    at updateTask (file:///home/ashlok/projects/todo/src/controllers/task.controller.js:48:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-16 22:30:19 [INFO]: Server running on port 5000
+2025-07-16 22:30:26 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:30:26 [ERROR]: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Task" - CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Task"
+    at SchemaObjectId.cast (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/schema/objectId.js:251:11)
+    at SchemaType.applySetters (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/schemaType.js:1258:12)
+    at SchemaType.castForQuery (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/schemaType.js:1676:17)
+    at cast (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/cast.js:390:32)
+    at Query.cast (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/query.js:5055:12)
+    at Query._castConditions (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/query.js:2351:10)
+    at model.Query._findOne (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/query.js:2674:8)
+    at model.Query.exec (/home/ashlok/projects/todo/node_modules/.pnpm/mongoose@8.16.3/node_modules/mongoose/lib/query.js:4604:80)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateTask (file:///home/ashlok/projects/todo/src/controllers/task.controller.js:44:18)
+2025-07-16 22:30:43 [INFO]: Server running on port 5000
+2025-07-16 22:30:45 [INFO]: Server running on port 5000
+2025-07-16 22:30:47 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:30:47 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 22:30:57 [INFO]: Server running on port 5000
+2025-07-16 22:31:02 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:31:02 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 22:31:04 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:31:05 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 22:31:16 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:31:16 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 22:31:28 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:31:28 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:31:29 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:31:29 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:31:31 [INFO]: User logged in: __ashlok__
+2025-07-16 22:31:41 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:31:41 [WARN]: Conflict detected for task: 6877726c742f4941be5c7134 
+2025-07-16 22:32:56 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:32:56 [ERROR]: E11000 duplicate key error collection: test.tasks index: title_1 dup key: { title: "Ashlok Chaudhary" } - MongoServerError: E11000 duplicate key error collection: test.tasks index: title_1 dup key: { title: "Ashlok Chaudhary" }
+    at InsertOneOperation.execute (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/home/ashlok/projects/todo/node_modules/.pnpm/mongodb@6.17.0/node_modules/mongodb/lib/collection.js:157:16)
+2025-07-16 22:33:34 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:33:34 [INFO]: Task created: Spring Boot Development by user __ashlok__ 
+2025-07-16 22:34:48 [INFO]: Server running on port 5000
+2025-07-16 22:34:59 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:35:00 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 22:35:19 [INFO]: Server running on port 5000
+2025-07-16 22:35:21 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:35:21 [WARN]: Task not found: undefined 
+2025-07-16 22:35:21 [ERROR]: Task not found - Error: Task not found
+    at updateTask (file:///home/ashlok/projects/todo/src/controllers/task.controller.js:46:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-16 22:35:24 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:35:24 [WARN]: Task not found: undefined 
+2025-07-16 22:35:24 [ERROR]: Task not found - Error: Task not found
+    at updateTask (file:///home/ashlok/projects/todo/src/controllers/task.controller.js:46:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-16 22:36:12 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:36:12 [INFO]: Task deleted: 6877c8b6dc41081616c947ee by user __ashlok__ 
+2025-07-16 22:36:43 [INFO]: User logged in: __ashlok__
+2025-07-16 22:36:51 [INFO]: User logged in: __ashlok__
+2025-07-16 22:36:52 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:36:52 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:36:53 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:36:53 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:36:56 [INFO]: User logged in: __ashlok__
+2025-07-16 22:37:47 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:37:47 [WARN]: Task not found: undefined 
+2025-07-16 22:37:47 [ERROR]: Task not found - Error: Task not found
+    at updateTask (file:///home/ashlok/projects/todo/src/controllers/task.controller.js:46:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-16 22:37:50 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:37:51 [WARN]: Task not found: undefined 
+2025-07-16 22:37:51 [ERROR]: Task not found - Error: Task not found
+    at updateTask (file:///home/ashlok/projects/todo/src/controllers/task.controller.js:46:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-16 22:42:55 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:42:55 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:42:56 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:42:56 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:44:24 [INFO]: User logged in: __ashlok__
+2025-07-16 22:44:37 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:44:37 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:44:38 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:44:38 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:44:40 [INFO]: User logged in: __ashlok__
+2025-07-16 22:44:56 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:44:57 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 22:44:59 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:45:00 [WARN]: Task not found: undefined 
+2025-07-16 22:45:00 [ERROR]: Task not found - Error: Task not found
+    at updateTask (file:///home/ashlok/projects/todo/src/controllers/task.controller.js:46:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-16 22:45:51 [INFO]: Server running on port 5000
+2025-07-16 22:45:55 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:45:55 [WARN]: Task not found: undefined 
+2025-07-16 22:45:55 [ERROR]: Task not found - Error: Task not found
+    at updateTask (file:///home/ashlok/projects/todo/src/controllers/task.controller.js:48:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-16 22:46:05 [INFO]: Server running on port 5000
+2025-07-16 22:47:03 [INFO]: Server running on port 5000
+2025-07-16 22:47:11 [INFO]: Server running on port 5000
+2025-07-16 22:47:15 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:47:15 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:47:15 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:47:15 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:47:18 [INFO]: User logged in: __ashlok__
+2025-07-16 22:47:26 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:47:26 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 22:47:37 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:47:38 [INFO]: Smart Assign: Task 6877726c742f4941be5c7134 assigned to user 6877d081bff072fb8dcc7990 
+2025-07-16 22:47:38 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 22:47:46 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:47:47 [INFO]: Smart Assign: Task 6877726c742f4941be5c7134 assigned to user 6877d081bff072fb8dcc7990 
+2025-07-16 22:47:47 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 22:47:58 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:48:00 [INFO]: Smart Assign: Task 6877726c742f4941be5c7134 assigned to user 6877d081bff072fb8dcc7990 
+2025-07-16 22:48:00 [INFO]: Task updated: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 22:48:09 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:48:10 [INFO]: Task deleted: 6877726c742f4941be5c7134 by user __ashlok__ 
+2025-07-16 22:48:12 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:48:13 [INFO]: Task updated: 6877726c742f4941be5c7137 by user __ashlok__ 
+2025-07-16 22:48:16 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:48:16 [INFO]: Task updated: 6877726c742f4941be5c7135 by user __ashlok__ 
+2025-07-16 22:48:41 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:48:42 [INFO]: Task updated: 6877726c742f4941be5c7137 by user __ashlok__ 
+2025-07-16 22:48:44 [INFO]: Authenticated user: __ashlok__
+2025-07-16 22:48:44 [INFO]: Smart Assign: Task 6877726c742f4941be5c7137 assigned to user 6877d081bff072fb8dcc7990 
+2025-07-16 22:48:45 [INFO]: Task updated: 6877726c742f4941be5c7137 by user __ashlok__ 
+2025-07-16 22:48:54 [INFO]: Server running on port 5000
